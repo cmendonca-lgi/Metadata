@@ -2,7 +2,7 @@
 name: Add the language used for the audio track to AudioAttributes
 about: Add to AudioAttributes the camp AudioLanguage
 title: 'Add to AudioAttributes the camp AudioLanguage'
-labels: 'AudioAttributes'
+labels: 'enhancement'
 assignees: 'development team'
 
 ---
