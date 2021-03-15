@@ -14,9 +14,9 @@ The UK video-on-demand client emailed us about additional metadata that they wan
 **Describe the solution you'd like**
 The current xml format presents the minimal metadata requirement 8.1.3.1 from the 4300-CP document.
 
-<AVAttributes>
-<AudioAttributes>
-<MixType href="urn:mp
+*<AVAttributes>
+*<AudioAttributes>
+*<MixType href="urn:mp
 
 The solution is to add AudioLanguage attribute to it ( 8.1.4 from the 4300-CP document).
 For this we need to add this parameter to the tables on the database and store the values from the client.
